@@ -13,4 +13,4 @@
 
 
 oled界面：
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/26e63644-6d43-4a27-bec7-f77e69606bba)
