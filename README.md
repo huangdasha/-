@@ -7,3 +7,6 @@
 4、按键可设置光强阈值，高于阈值且有人的情况下自动调节led 亮度，无人情况下直接最
 低亮度维持
 5、0led 显示当前的 电压电流、有无故障、开灯和关灯时间、温湿度
+
+手机蓝牙界面：
+![de3db491ba0b008cf6fd946eea7a072](https://github.com/user-attachments/assets/cb65996a-f9e2-40da-88ab-e0bbf10a3417)
