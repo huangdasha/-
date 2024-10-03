@@ -10,3 +10,7 @@
 
 手机蓝牙界面：
 ![de3db491ba0b008cf6fd946eea7a072](https://github.com/user-attachments/assets/cb65996a-f9e2-40da-88ab-e0bbf10a3417)
+
+
+oled界面：
+![Uploading image.png…]()
